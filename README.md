@@ -3,21 +3,6 @@
 ## Description
 This project implements text classification using the Naive Bayes algorithm. The primary goal is to classify text data into predefined categories.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2. Change to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Open the Jupyter Notebook:
